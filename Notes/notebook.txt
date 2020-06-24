@@ -1,0 +1,37 @@
+// Git and GitHub
+
+Github - platform where you have your projects and collaborate with others
+Git - bash to manage your projects (keep track of the changes) === versional control system
+
+========
+GIT
+========
+
+// clone project into your local machine
+git clone https://github.com/IamFred14/my-python-demo.git
+
+// common git commands
+
+git status // 
+
+git add <file>  or git add . // to add all at once
+
+git commit -m "dadsasda"  // message should reflect your changes
+
+git push origin <branch>
+
+git log // Shows all commits
+
+git pull // Make sure current branch is updated
+
+====
+Git workflow =====
+==== 
+
+Create branches
+=============
+
+master // only keep tested, working code
+
+git checkout -b <branch name>    create-simple-calculator
+  
