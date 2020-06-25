@@ -24,6 +24,10 @@ git log // Shows all commits
 
 git pull // Make sure current branch is updated
 
+git branch -d localBranchName // delete branch locally
+
+git push origin --delete remoteBranchName // delete branch remotely
+
 ====
 Git workflow =====
 ==== 
